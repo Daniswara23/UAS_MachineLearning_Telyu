@@ -13,7 +13,11 @@ Nim : 1103210146
 Tugas : NLP Hugging Face Course (Chapters 5 - 9)
 
 Chapter 5 The Dataset Library
+
 Chapter 6 The Tokenizers Library
+
 Chapter 7 Main NLP Tasks
+
 Chapter 8 How To Ask For Help
+
 Chapter 9 Building And Sharing Demos
