@@ -1,11 +1,11 @@
 Link Youtube :
 https://youtu.be/4OHFjuxRfRs
 
-Link Github Pribadi :
+Link Github :
 https://github.com/rrizqiaa/MachineLearningTasks
 
 Link Github Kelompok :
-https://github.com/Daniswara23/UAS_MachineLearning_Telyu.git
+https://github.com/Daniswara23/UAS_MachineLearning_Telyu
 
 Nama: Rey Rizqi Anugerah
 Kelas : Tk 45 01
