@@ -3,7 +3,7 @@ Uas machine learning telyu
 
 Anggota :
 
-Augryes Farha S.N	1103210115	task 1
+Augryes Farha S.N	1103210115	task 1 /n
 muhammad makhlufi m	1103210171	task 2
 Rey Rizqi Anugerah	1103210146	Task 3
 Satya Athaya Daniswara	1103213152	Task 4
